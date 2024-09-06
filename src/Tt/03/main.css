@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+}
+
+pre {
+  background-color: #282c34;
+  color: #abb2bf;
+  border: 1px solid #444851;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 800px;
+}
+
+code {
+  display: block;
+}
+
+#resulto {
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 20px;
+}
